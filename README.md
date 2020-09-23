@@ -1,6 +1,6 @@
 ### Hi there, I'm Thomas- aka [Mystos]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MystosDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMystos&screen_name=MystosDev)
+![Twitter Follow](https://img.shields.io/twitter/follow/MystosDev?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
 ## Video Game Enthusiast, Developper, Astrophotograph !
 
