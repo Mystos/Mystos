@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas- aka [Mystos]
+### Hi there, I'm Thomas- aka Mystos
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MystosDev?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
