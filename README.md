@@ -41,7 +41,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5838](https://github.com//timburgan/timburgan/issues/5838) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. ❗️ Opened issue [#5838](https://github.com/timburgan/timburgan/issues/5838) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
